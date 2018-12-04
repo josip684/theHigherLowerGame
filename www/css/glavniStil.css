@@ -1,0 +1,21 @@
+#prva_karta{
+  float:left;
+}
+
+#druga_karta{
+  float:right;
+}
+
+#botuni_veca_manja{
+  clear:both;
+}
+
+#pogodak_promasaj{
+  clear:both;
+}
+
+@media screen and (max-width: 480px) {
+    img {
+         width: 100px;
+    }
+}
