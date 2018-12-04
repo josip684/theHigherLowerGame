@@ -7,6 +7,7 @@ window.onload=function(){
   //$("#btn_nove_karte").on("click", newCards);
 }
 var id_deck;
+//
 console.log(id_deck);
 var zahtjev;
 var zahtjev2;
